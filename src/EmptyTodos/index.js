@@ -7,5 +7,4 @@ return (
     <p> Realiza tu primer ticket  </p>
   );
 }
-
-export { EmptyTodos };
+    export { EmptyTodos };
